@@ -298,7 +298,7 @@
         "quickSearch": 1,
         "filterable": 1,
         "ext": "clan://TVBox/Bilibili/哔哩合集.json",
-        "jar":"https://share.nite07.com/api/v3/file/source/35134/bili.jar?sign=nTzGbQOJCcAoewASB5Y1tylAJ5cBWdKI1-trIYbuSCw%3D%3A0"
+        "jar":"clan://TVBox/jar/xzy1029.jar"
        },
        
        {
@@ -321,17 +321,7 @@
       "filterable": 1,
       "ext": "clan://TVBox/py/plugin/中国文化.py"
     },
-       
-	    {
-		"key": "py_cctv2",
-		"name": "Py | 央视2",
-		"type": 3,
-		"api": "py_cctv2",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "clan://TVBox/py/plugin/py_cctv2.json"
-	},
+
 
 	      {
             "key" : "py_cctv",
