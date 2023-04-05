@@ -61,7 +61,8 @@
             "api": "csp_SP360",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1
+            "filterable": 1,
+            "jar":"https://t.dogc.pp.ua/TVBox/jar/xzy1029.jar"
         },
         {
             "key": "csp_BuLei",
@@ -294,24 +295,6 @@
             "api": "https://t.dogc.pp.ua/TVBox/JS/lib/drpy2.min.js",
             "ext": "https://t.dogc.pp.ua/TVBox/JS/js/JRKAN直播.js"
         },
-        {
-            "key": "说明",
-            "name": "2",
-            "type": 3,
-            "api": "360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "说明2",
-            "name": "2",
-            "type": 3,
-            "api": "360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        }
     ],
     "parses": [
         {

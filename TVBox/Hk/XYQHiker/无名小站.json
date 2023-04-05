@@ -66,7 +66,7 @@
     "演员详情": ".info_text&&.inline_item,2&&Text",
     "简介详情": ".info_text&&p&&Text",
     "线路列表数组规则": ".vod_play_list&&.mdui-panel-item-title",
-    "线路标题": "Text",
+    "线路标题": "Text+'线路'",
     "播放列表数组规则": ".vod_play_list&&.mdui-panel-item-body",
     "选集列表数组规则": ".mdui-btn-raised",
     "选集标题链接是否Jsoup写法": "1",
