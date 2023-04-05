@@ -295,6 +295,24 @@
             "api": "https://t.dogc.pp.ua/TVBox/JS/lib/drpy2.min.js",
             "ext": "https://t.dogc.pp.ua/TVBox/JS/js/JRKAN直播.js"
         },
+        {
+            "key": "暂无",
+            "name": "暂无",
+            "type": 3,
+            "api": "360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "暂无",
+            "name": "暂无",
+            "type": 3,
+            "api": "360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }
     ],
     "parses": [
         {
