@@ -305,7 +305,7 @@
             "filterable": 1
         },
         {
-            "key": "暂无",
+            "key": "暂无2",
             "name": "暂无",
             "type": 3,
             "api": "360",
@@ -330,6 +330,9 @@
             "type": 2,
             "url": "Sequence"
         },
+        {"name":"自动解析","type":1,"url":"https://api.json.icu/api/?key=51f783bd85464b099f7ceac7ffb36020&url="},
+        {"name":"手动解析","type":1,"url":"http://jiexi.xdv.icu/api/?key=sNZAzz6ewmDReFKxnw&url="},
+        
         {
             "name": "云you解析①",
             "type": 1,
