@@ -16,78 +16,15 @@
 		"filterable": 1,
 		"ext": "clan://TVBox/py/plugin/py_douban.json"
 	}, 
-{
-		"key": "py_douban",
-		"name": "Py | 纸条",
-		"type": 3,
-		"api": "py_gitcafe",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0,
-		"ext": "clan://TVBox/py/plugin/py_gitcafe.py"
-	}, 
-	{
-		"key": "py_douban",
-		"name": "Py | 易搜",
-		"type": 3,
-		"api": "py_yiso",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0,
-		"ext": "clan://TVBox/py/plugin/py_yiso.py"
-	}, 
-    {
-		"key": "py_douban",
-		"name": "Py | up云搜",
-		"type": 3,
-		"api": "py_yunso",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0,
-		"ext": "clan://TVBox/py/plugin/py_yunso.py"
-	}, 
-	{
-            "key" : "py_zhaozy",
-            "name" : "🔍找资源 py",
-            "type" : 3,
-            "api" : "py_zhaozy",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "ext" : "clan://TVBox/py/plugin/py_zhaozy.py"
-        },
-            
-            {
-            "key" : "py_pansou",
-            "name" : "📀盘搜 py",
-            "type" : 3,
-            "api" : "py_pansou",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 0,
-            "ext" : "clan://TVBox/py/plugin/py_pansou.py"
-        },
-        {
-            "key" : "py_alist",
-            "name" : "🗂Alist py",
-            "type" : 3,
-            "api" : "py_alist",
-            "searchable" : 1,
-            "quickSearch" : 1,
-            "filterable" : 1,
-            "ext" : "clan://TVBox/py/plugin/py_alist.py"
-        },
-            {
-            "key" : "push_agent2",
-            "name" : "📂阿里 py",
-            "type" : 3,
-            "api" : "py_ali",
-            "searchable" : 0,
-            "quickSearch" : 0,
-            "filterable" : 0,
-            "ext" : "clan://TVBox/py/plugin/py_ali.py"
-        },
-    {
+    //{"key": "py_douban","name": "Py | 纸条","type": 3,"api": "py_gitcafe","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "clan://TVBox/py/plugin/py_gitcafe.py"}, 
+	//{"key": "py_douban","name": "Py | 易搜","type": 3,"api": "py_yiso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "clan://TVBox/py/plugin/py_yiso.py"}, 
+    //{"key": "py_douban","name": "Py | up云搜","type": 3,"api": "py_yunso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "clan://TVBox/py/plugin/py_yunso.py"}, 
+	//{"key" : "py_zhaozy","name" : "🔍找资源 py","type" : 3,"api" : "py_zhaozy","searchable" : 1,"quickSearch" : 1, "filterable" : 0,"ext" : "clan://TVBox/py/plugin/py_zhaozy.py"},
+    //{"key" : "py_pansou","name" : "📀盘搜 py", "type" : 3, "api" : "py_pansou","searchable" : 1,"quickSearch" : 1,"filterable" : 0,"ext" : "clan://TVBox/py/plugin/py_pansou.py"},
+    //{"key" : "py_alist","name" : "🗂Alist py","type" : 3, "api" : "py_alist","searchable" : 1,"quickSearch" : 1,"filterable" : 1,"ext" : "clan://TVBox/py/plugin/py_alist.py"},
+    //{"key" : "push_agent2","name" : "📂阿里 py","type" : 3,"api" : "py_ali", "searchable" : 0,"quickSearch" : 0,"filterable" : 0,"ext" : "clan://TVBox/py/plugin/py_ali.py"},
+    //{"key": "py_bilimd","name": "Py | B站影视","type": 3,"api": "py_bilimd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "clan://TVBox/py/plugin/B站影视.py"},  
+      {
 		"key": "py_kunyu77",
 		"name": "Py | kunyu77",
 		"type": 3,
@@ -97,17 +34,6 @@
 		"filterable": 1,
 		"ext": "clan://TVBox/py/plugin/py_kunyu77.json"
 	    },
-	  
-       {
-		"key": "py_bilimd",
-		"name": "Py | B站影视",
-		"type": 3,
-		"api": "py_bilimd",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "clan://TVBox/py/plugin/B站影视.py"
-	   },  
     	{
             "key" : "py_youer",
             "name" : "Py | 幼儿教育",
@@ -582,11 +508,11 @@
 		"ext": "clan://TVBox/py/plugin/py_genmov_1.json"
 	    },
 	
-   {"key": "紙條","name": "纸条 | 搜索","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"switchable": 0,"ext": "clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/jar/fm.jar"},
+{"key": "紙條","name": "纸条 | 搜索","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"switchable": 0,"ext": "clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/jar/fm.jar"},
 {"key": "易搜","name": "易搜┃搜索","type": 3,"api": "csp_YiSo","searchable": 1,"filterable": 0,"switchable": 0,"ext": "clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/jar/fm.jar"},
 {"key": "盤搜","name": "盘搜 | 搜索","type": 3,"api": "csp_PanSou","searchable": 1,"filterable": 0,"switchable": 0,"ext": "clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/jar/fm.jar"},
 {"key": "UP雲搜","name": "Up云搜┃搜索","type": 3,"api": "csp_UpYun","searchable": 1,"filterable": 0,"switchable": 0,"ext": "clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/jar/fm.jar"},
-{"key": "找資源","name": "找资源 | 搜索","type": 3,"api": "csp_Zhaozy","searchable": 1,"filterable": 0,"switchable": 0,"ext": "clan://TVBox/jar/alitoken.txt$$$yingshi$$$abcd1234","jar": "clan://TVBox/jar/fm.jar"},
+{"key": "找资源","name": "找资源 | 搜索","type": 3,"api": "csp_Zhaozy","ext": "clan://TVBox/jar/alitoken.txt$$$自己去注册$$$qq112233","jar": "clan://TVBox/jar/fm.jar"},
 {"key": "push_agent","name": "推送(阿里推送/磁力推送)","type": 3,"api": "csp_Push","searchable": 1,"filterable": 0,"switchable": 0,"ext": "clan://TVBox/jar/alitoken.txt","jar": "clan://TVBox/jar/fm.jar"},
 
 {"key" : "drpy_js_榜单荐片2","name" : "榜单荐片2[tv.nxog.top]","type" : 3,"api": "http://tv.nxog.top/m/js/drpy.js","ext": "http://tv.nxog.top/m/MaooXX/欧歌聚合搜索.js"}

@@ -7,7 +7,7 @@
                 {
                     "name": "live",
                     "urls": [
-                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly90LmRvZ2MucHAudWEvVFZCb3gvdHYvbGl2ZS50eHQ="
+                        "do=live&type=txt&ext=aHR0cHM6Ly90LmRvZ2MucHAudWEvVFZCb3gvdHYvbGl2ZS50eHQ="
                     ]
                 }
             ]
