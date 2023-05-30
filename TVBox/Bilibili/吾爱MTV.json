@@ -88,6 +88,10 @@
       "type_name": "C程响",
       "type_id": "程响MV"
     },
+     {
+      "type_name": "C陈晓竹",
+      "type_id": "陈晓竹MV"
+    },
     {
       "type_name": "C崔健",
       "type_id": "崔健MV"
@@ -902,6 +906,7 @@
 {"n":"BBIGBANG","v":"BIGBANGMV4K"},
 {"n":"B布兰妮","v":"布兰妮MV4K"},
 {"n":"C程响","v":"程响MV4K"},
+{"n":"C陈晓竹","v":"陈晓竹MV4K"},
 {"n":"C陈奕迅","v":"陈奕迅MV4K"},
 {"n":"C蔡依林","v":"蔡依林MV4K"},
 {"n":"C初音未来","v":"初音未来MV4K"},
