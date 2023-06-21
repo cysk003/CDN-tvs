@@ -1,7 +1,8 @@
 [
 {"name":"本地直播","url":"http://127.0.0.1:9978/file/TVBox/tv/live.txt&&&https://api.caonm.net/api/mc/"},
 {"name":"饭太硬直播","url":"http://ftyyy.tk/live.txt&&&http://shuyuan.miaogongzi.net/shuyuan/1679064755.txt"},
-{"name":"肥猫直播","url":"http://我不是.肥猫.love:63/TV/tvzb.txt&&&http://我不是.肥猫.love:63/lives/直播图5.png"},
+{"name":"肥猫直播1","url":"http://我不是.肥猫.love:63/TV/tvzb.txt&&&http://我不是.肥猫.love:63/lives/直播图5.png"},
+{"name":"肥猫直播2","url":"http://hz752.love:63/txt/tvbs.txt&&&http://我不是.肥猫.love:63/lives/直播图5.png"},
 {"name":"南风直播","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt&&&http://shuyuan.miaogongzi.net/shuyuan/1679064755.txt"},
 {"name":"多多直播","url":"https://bitbucket.org/xduo/duoapi/raw/master/v.txt&&&https://api.likepoems.com/img/mc"},
 {"name":"唐三直播","url":"http://home.jundie.top:81/Cat/tv/live.txt&&&http://shuyuan.miaogongzi.net/shuyuan/1679064755.txt"},
