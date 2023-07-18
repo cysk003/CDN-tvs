@@ -147,8 +147,8 @@
         
         {"key": "csp_XYQBiu_网易CC直播","name": "🕸网易CC直播(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./XYQBiu/网易CC直播.json"},
         {"key": "csp_XYQBiu_310直播","name": "⚽️310直播✈️(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "./XYQBiu/310直播.json"},
-        {"key": "csp_XYQBiu_斗鱼直播","name": "🐠斗鱼直播(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./XYQBiu/斗鱼直播.json"},
-        
+        //{"key": "csp_XYQBiu_斗鱼直播","name": "🐠斗鱼直播(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "./XYQBiu/斗鱼直播.json"},
+        {"key": "csp_XYQHiker_斗鱼","name":"🐬斗鱼直播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"clan://TVBox/Hk/XYQHiker/斗鱼直播.json"},
         {"key": "csp_XYQBiu_磁力熊","name":"💿磁力熊(XYQ)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"./XYQBiu/磁力熊.json"},
         {"key": "csp_XYQBiu_骚火电影网","name": "骚火电影网(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQBiu/骚火电影网.json"},
         {"key": "csp_XYQBiu_骚火电影VIP","name": "骚火电影VIP✈️(XYQ)","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./XYQBiu/骚火电影VIP.json"},
