@@ -1,6 +1,6 @@
 {
   "drives": [
-      
+  
     {
       "name": "💢丫仙女",
       "server": "http://alist.xiaoya.pro"
@@ -27,6 +27,12 @@
     {
      "name": "💫触光",
      "server": "https://pan.ichuguang.com"
+    },
+  
+    {
+      "name": "🫒罗汉果",
+      "server": "https://lala-ofbip.run.goorm.site/"
     }
+    
   ]
 }  
