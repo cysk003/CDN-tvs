@@ -13,11 +13,11 @@
             ]
         }
     ],
-    "warningText": "自用接口",
+    "warningText": "免费提供",
     "wallpaper": "http://maoyingshi.cc/api.php",
     "sites": [
     {"key": "Kunyu77","name": "👒酷云七七","type": 3,"api": "csp_Kunyu77","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://t.dogc.pp.ua/TVBox/jar/fm.jar"},
-{"key": "js豆瓣","name": "🐼豆瓣","type": 3,"api": "https://t.dogc.pp.ua/TVBox/JS/lib/drpy.min.js","ext": "https://t.dogc.pp.ua/TVBox/JS/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0 },
+{"key": "js豆瓣","name": "🐼豆瓣 | 推荐","type": 3,"api": "https://t.dogc.pp.ua/TVBox/JS/lib/drpy.min.js","ext": "https://t.dogc.pp.ua/TVBox/JS/js/drpy.js","searchable": 0,"quickSearch": 0,"filterable": 0 },
 {"key":"直播转点播1","name":"📡电视┃直播","type": 3,"api":"http://itvbox.cc/tvbox/云星日记/sh/js/直播转点播.js","ext":"http://itvbox.cc/tvbox/云星日记/sh/js/直播.txt"},
 {"key":" 在线┃直播","name":"📺在线┃直播","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":1},          
 //{"key": "js七七","name": "🌈┃七七影视〔SP〕","type": 3,"api": "https://t.dogc.pp.ua/TVBox/JS/lib/drpy2.min.js","ext": "https://t.dogc.pp.ua/TVBox/JS/js/酷云77.js","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -25,18 +25,6 @@
 {"key":"爱迪","name":"💡爱迪┃影视","type":3,"api":"csp_AppYsV2","playerType":"2","ext":"https://api123.adys.app/xgapp.php/v3/"},
 {"key":"YQK_spider","name":"🙆一起┃电视","api":"csp_YQKAPP","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext":"https://hk-api-cf.yqk5659.com"},
 {"key":"csp_AppMr","name":"👻明明┃影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
-{
-         "key": "csp_appys_如意4K",
-         "name": "🪄如意4K | 影视",
-         "type": 3,
-         "api": "csp_AppYsV2",
-         "searchable": 1,
-         "quickSearch": 1,
-         "filterable": 1,
-         "ext": "http://cms.maoyingshi.cc/api.php/app/"
-      // "4k解析" = 前往 api.maoyingshi.cc 进行自助购买
-      //1080免费提供
-    },
  {"key":"csp_FanYY","name":"🧸玩偶┃影视","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt"},  
        
 {"key": "ity","name": "💖爱TV4k","type": 3,"api": "csp_xBPQ","playerType":2,"ext": {"数组":"<div class=\"stui-vodlist__box\">&&</div>","副标题":"<span class=\"pic-text text-right\"><b>&&</b></span>","分类":"电影$1#电视剧$2#动漫$4#综艺$3#记录$5#动画片$6","分类url":"https://www.citydy.com/show/id-{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html"},"jar":"http://itvbox.cc/sft/jar/xzy1029.jar;md5;5a3a30123ac5eb236aa3e96a7669442f"},   
