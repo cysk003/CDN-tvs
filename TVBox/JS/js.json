@@ -72,6 +72,7 @@
 {"key":"drpy_js_追剧迷","name":"影视 | 追剧迷","type":3,"api":"./lib/drpy2.min.js","ext":"./js/追剧迷.js"},
 {"key":"drpy_js_美视网","name":"影视 | 美视网","type":3,"api":"./lib/drpy2.min.js","ext":"./js/美视网.js"},
 {"key":"drpy_js_4K电影网","name":"影视 | 4K电影网","type":3,"api":"./lib/drpy2.min.js","ext":"./js/4K电影网.js"},
+{"key":"drpy_js_FreeOK","name":"影视 | FreeOK","type":3,"api":"./lib/drpy2.min.js","ext":"./js/FreeOK.js"},
 {"key":"drpy_js_LIBVIO","name":"影视 | LIBVIO","type":3,"api":"./lib/drpy2.min.js","ext":"./js/LIBVIO.js"},
 {"key":"drpy_js_Voflix","name":"影视 | Voflix","type":3,"api":"./lib/drpy2.min.js","ext":"./js/Voflix.js"},
 {"key":"drpy_js_两个BT","name":"影视 | 两个BT","type":3,"api":"./lib/drpy2.min.js","ext":"./js/两个BT.js"},

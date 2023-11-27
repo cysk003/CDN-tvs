@@ -13,7 +13,7 @@
             ]
         }
     ],
-    "warningText": "接口免费",
+    "warningText": "接口免费提供",
     "wallpaper": "http://maoyingshi.cc/api.php",
     "sites": [
     {"key": "Kunyu77","name": "👒酷云七七","type": 3,"api": "csp_Kunyu77","playerType":1,"searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://t.dogc.pp.ua/TVBox/jar/fm.jar"},
@@ -23,6 +23,7 @@
 //{"key": "js七七","name": "🌈┃七七影视〔SP〕","type": 3,"api": "https://t.dogc.pp.ua/TVBox/JS/lib/drpy2.min.js","ext": "https://t.dogc.pp.ua/TVBox/JS/js/酷云77.js","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key": "csp_XYQHiker_农民影视","name": "🌌农民影视", "type": 3, "api": "csp_XYQHiker","searchable": 1,"quickSearch": 1, "filterable": 1, "ext": "https://t.dogc.pp.ua/TVBox/Hk/XYQHiker/农民影视.json","jar":"https://t.dogc.pp.ua/TVBox/Hk/Hk.jar"},
+
 {"key":"csp_FanYY","name":"🧸玩偶┃影视","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/TVBox/jar/alitoken.txt"},  
 {"key": "迷你库","name": "米粒🔐APP","type": 3,"api": "csp_AppYsV2","searchable": 1,"changeable": 1,"ext": "http://www.miniku.cc/xgapp.php/v1/"},
 {"key": "csp_beijihu","name": "🎪极狐影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/"},
@@ -79,7 +80,7 @@
 
         {
             "key": "说明",
-            "name": "免费",
+            "name": "公众号：云星日记",
             "type": 3,
             "api": "360",
             "searchable": 1,
