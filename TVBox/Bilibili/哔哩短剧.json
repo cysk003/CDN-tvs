@@ -7,7 +7,7 @@
     
     ],
 
-    "cookie": "buvid3=0C0EAA18-337F-AAF2-24AE-056923FB837C49297infoc; bsource=search_baidu; _uuid=101C54512-F10CA-4636-B765-4EE8FE39894951470infoc; buvid4=FFAF1612-66B0-CAC0-5CF3-1455817C5C6851611-123090815-uk4%2FG28K78zhW9xeZbPKMgakoJaD5BH70OPlgUluoy%2BvEotkFzXwug%3D%3D; buvid_fp=cd8bc9cd00c18c6d5cd995c568d3d4ac; b_nut=100; DedeUserID=1958790055; DedeUserID__ckMd5=317ab4d7713cf829; rpdid=0zbfVFT5WN|C5GmE9v7|21C|3w1QEBl6; b_lsid=9C51077D7_18B98D694D2; bmg_af_switch=1; bmg_src_def_domain=i0.hdslb.com; enable_web_push=DISABLE; header_theme_version=CLOSE; home_feed_column=4; browser_resolution=1020-1905; is-2022-channel=1; CURRENT_FNVAL=1; innersign=0; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTkzMzU4MDEsImlhdCI6MTY5OTA3NjU0MSwicGx0IjotMX0.caOz64JVYslGYPsBCzrL1RkDUktHF0M9C9mwdD1llZg; bili_ticket_expires=1699335741; SESSDATA=d7693c6e%2C1714628746%2C22b9a%2Ab2CjBB6pKwSBLmSzJXPi0wBKEjYV90PV4SvYLp0nbkAksUHkcdJLly01js975dpj8ATfUSVklGNzVWamNyMFVBdDJ2ZllkVEg2TVg3ZEh0NDFXZzlxanQxWjRwaWpHaXM1SFdRWk92M2VGeDE0cVRQdlJMQ0NLUHZ2cTNFeW9fZHFPd1ZWenoxU1dRIIEC; bili_jct=62b8173b65b19cf2021be365298d412c; sid=ockdvkin",
+    "cookie": "https://agit.ai/30215429/TVBox/raw/branch/master/bilibili/cookie.txt",
  "filter":{
  "短剧": [
     {"key": "order","name": "排序","value": [
