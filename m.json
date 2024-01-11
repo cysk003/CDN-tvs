@@ -1,5 +1,19 @@
 {
     "spider": "https://t.dogc.pp.ua/TVBox/jar/fm.jar",
+	    "lives": [
+        {
+            "group": "redirect",
+            "channels": [
+                {
+                    "name": "live",
+                    "urls": [
+                        "proxy://do=live&type=txt&ext=aHR0cHM6Ly90LmRvZ2MucHAudWEvVFZCb3gvdHYvbGl2ZS50eHQ="
+                    ]
+                }
+            ]
+        }
+    ],
+    "warningText": "接口免费提供",
     "warningText": "接口免费",
     "wallpaper": "http://maoyingshi.cc/api.php",
     "sites": [
